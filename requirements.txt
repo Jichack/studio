@@ -1,4 +1,4 @@
 torch
-gym
+gym==0.26.2
 matplotlib
-numpy
+numpy==1.23.5
